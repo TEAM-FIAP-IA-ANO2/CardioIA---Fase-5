@@ -4,6 +4,11 @@
 
 Um ecossistema completo de *Health-Tech* focado em triagem clínica preliminar. O sistema integra hardware IoT para telemetria de sinais vitais em tempo real com um assistente virtual conversacional equipado com Inteligência Artificial para análise de sintomas.
 
+## Repositório dos arquivos:
+
+https://github.com/W-Nunes/CardioIA---Fase-5/tree/main
+
+
 ## 🏗️ Arquitetura do Sistema
 
 O projeto adota uma arquitetura em microsserviços dividida em quatro pilares principais:
