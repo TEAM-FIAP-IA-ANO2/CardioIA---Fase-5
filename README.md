@@ -36,5 +36,7 @@ O projeto adota uma arquitetura em microsserviços dividida em quatro pilares pr
 ---
 **👨‍💻 Desenvolvido por:**
 Renan
+
 Felipe
+
 Vinicius
